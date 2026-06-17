@@ -10,6 +10,10 @@ The goal is to assess proficiency in:
 ✅ **Vitest + React Testing Library** (for unit & integration testing)  
 ✅ **Playwright** (for end-to-end testing)
 
+## 🚀 Live Demo
+
+- **Frontend**: https://realtime-kanban-board.vercel.app
+- **Backend API**: https://realtime-kanban-board-production.up.railway.app
 ---
 
 ## 📂 Project Structure
